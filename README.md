@@ -6,6 +6,7 @@ Structure: one folder per app/store variant, each with its own `index.html`.
 
 - `inslider/` — Inslider, Google Play version
 - `inslider-hw/` — Inslider, Huawei AppGallery version (payments wording adjusted)
+- `yoni/` — Yoni (cycle & wellbeing diary), Google Play version — `index.html` (EN), `ru.html` (RU)
 - `yoni-hw/` — Yoni (menstrual-cycle tracker), Huawei AppGallery version — `index.html` (EN), `ru.html` (RU)
 
 Enable GitHub Pages (Settings → Pages → Deploy from branch: `main` / root) and use
